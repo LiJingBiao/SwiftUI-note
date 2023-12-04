@@ -2,7 +2,7 @@
 
 ## SwiftUI状态初始化
 
-1. @State初始化
+1. `@State`初始化
 
   ```swift
   struct CounterView: View {
@@ -25,7 +25,7 @@
 
   [参考链接](https://sarunw.com/posts/state-variable-initialization/)
 
-2. @StateObject初始化
+2. `@StateObject`初始化
 
   ```swift
   /// 第一种
